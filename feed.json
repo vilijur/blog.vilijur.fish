@@ -42,6 +42,17 @@
 ",
       "date_published": "2026-02-01T00:00:00.000Z"
     }
+    ,
+    
+    
+    
+    {
+      "id": "https://blog.vilijur.fish/blog.vilijur.fish/posts/github-deployment-test/",
+      "url": "https://blog.vilijur.fish/blog.vilijur.fish/posts/github-deployment-test/",
+      "title": "test",
+      "content_html": "&lt;h1 id=&quot;testing&quot;&gt;testing&lt;a data-pagefind-ignore href=&quot;#testing&quot; class=&quot;header-anchor&quot; aria-label=&quot;Permalink to testing&quot;&gt;&lt;div class=&quot;tooltip&quot;&gt;Permanent link&lt;/div&gt;&lt;/a&gt;&lt;/h1&gt;",
+      "date_published": "2026-02-01T00:00:00.000Z"
+    }
     
     
     
