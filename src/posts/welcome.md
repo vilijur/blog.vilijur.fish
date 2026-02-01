@@ -5,7 +5,7 @@ date: 2026-02-01
 tags:
 - special
 cover:
-    img: /hero.webp
+    img: /logo.webp
     alt: A crudely drawn goldfish with pink hair in the shape of a ponytail and an eyepatch.
 ---
 
