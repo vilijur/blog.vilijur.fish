@@ -1,0 +1,29 @@
+<dialog id="dialog-comments" class="right large" style="background: #303446; color: #c6d0f5;">
+    <header class="fixed">
+        <nav>
+            <div class="row max truncate">
+                <h6 class="max">Comments</h6>
+            </div>
+            <div class="row">
+                <button class="transparent circle" data-ui="#dialog-comments">
+                    <i>{% icon "mdi:close" %}</i>
+                </button>
+            </div>
+        </nav>
+    </header>
+    <script src="https://giscus.app/client.js"
+        data-repo="{{ site.giscus.dataRepo }}"
+        data-repo-id="{{ site.giscus.dataRepoID }}"
+        data-category="{{ site.giscus.dataCategory }}"
+        data-category-id="{{ site.giscus.dataCategoryID }}"
+        data-mapping="title"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="catppuccin_frappe"
+        data-lang="id"
+        crossorigin="anonymous"
+        async>
+    </script>
+</dialog>

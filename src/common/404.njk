@@ -1,0 +1,23 @@
+---
+permalink: /404.html
+eleventyExcludeFromCollections: true
+excludeFromSitemap: true
+layout: layouts/default.njk
+title: "There is no page."
+description: The sea is rather empty around these parts...
+---
+
+<div class="large-space"></div>
+
+<article class="transparent center-align post">
+    <div>
+      <i class="extra">{% icon "msy:flood" %}</i>
+      <h2>{{ title }}</h2>
+      <p>
+        {{ description }} <br>
+        Try looking at the <a href="javascript:ui('#dialog-tags');">tags</a> or <a href="javascript:ui('#dialog-posts');">posts</a>, or <a href="/">return home</a>.
+      </p>
+    </div>
+  </article>
+
+
