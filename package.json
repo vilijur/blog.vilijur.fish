@@ -4,11 +4,11 @@
   "description": "An 11ty blog based off of 11ty-beer.",
   "scripts": {
     "start": "npx @11ty/eleventy --serve",
-    "build": "npx @11ty/eleventy'"
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/blog.vilijur.fish/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LIGMATV/11ty-beer.git"
+    "url": "https://github.com/vilijur/blog.vilijur.fish.git"
   },
   "keywords": [
     "eleventy",
